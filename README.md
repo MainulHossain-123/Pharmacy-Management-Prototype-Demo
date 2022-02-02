@@ -1,1 +1,1 @@
-# CSE470-Project-Demo
+# Pharmacy Management-Project-Demo
